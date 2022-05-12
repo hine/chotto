@@ -1,0 +1,2 @@
+# chotto
+gitやらgithubやらのテスト用のレポジトリです。
